@@ -1,2 +1,2 @@
 # core
-the missing cpp core library
+the missing cpp base library
